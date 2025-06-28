@@ -98,3 +98,4 @@ Train an MLP classifier using frozen SupCon embeddings.
 #### 2. Classifier Architecture
 
 - Frozen SupCon encoder → MLP Head:
+## This implementation achieved an F1 score of 0.9917 over 1400 images of the hackathon dataset and our team became First Runner up.
